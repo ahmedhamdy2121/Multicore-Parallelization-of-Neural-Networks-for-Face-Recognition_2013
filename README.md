@@ -1,7 +1,12 @@
 # Multicore-Parallelization-of-Neural-Networks-for-Face-Recognition
+
+[![License](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)](https://github.com/ahmedhamdy90/deep-learning-specialization-coursera/blob/master/LICENSE)
+
 Multicore Parallelization of Neural Networks for Face Recognition, a neural network built on top of CMU code and has been updated, enhanced, and parallelized. (2013)
 
 Report: https://1drv.ms/b/s!AjpxhCM4OMFHg_APRliCaNCRj-kvBg
+
+Please cite the paper if you use this code or data, and also mention me in your work.
 
 This repo contains:
 
